@@ -10,3 +10,4 @@
 *As a way of adding interactivity to these dashboards, I used a parameter to enable the user to choose which measure to display in the line chart between gross revenue and profit which then would filter the bar and scatter charts.
 
 *In the performance by region dashboard I used a floating container to show or hide the treemap/lollipop charts. lastly I used a parameter action to use the map visual as a filter on the other visuals.
+<iframe src="https://public.tableau.com/app/profile/brian.koech5438/viz/calwest/Dashboard2"></iframe>
