@@ -15,4 +15,5 @@
 
 <img src="Dashboard%202%20(2).png" alt="Dashboard 2">
 
-[Tableau Sales Dashboard](https://public.tableau.com/app/profile/brian.koech5438/viz/calwest/Dashboard2)
+[Tableau Sales Dashboard 2](https://public.tableau.com/app/profile/brian.koech5438/viz/calwest/Dashboard2)
+[Tableau Sales Dashboard 1](https://public.tableau.com/app/profile/brian.koech5438/viz/calwest1/Dashboard1)
